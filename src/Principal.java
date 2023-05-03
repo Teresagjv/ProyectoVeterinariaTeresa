@@ -5,6 +5,15 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 		//Esta es la clase principal de mi proyecto de 
+		//para la asignatura de ticII
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 	}
