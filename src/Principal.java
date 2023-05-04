@@ -6,7 +6,7 @@ public class Principal {
 		
 		//Esta es la clase principal de mi proyecto de 
 		//para la asignatura de ticII
-		
+		//Aquí incluye el funcionamiento 
 		
 		
 		
